@@ -24,7 +24,7 @@ Identify Deprecated APIs <br/>
 <img src="https://i.postimg.cc/dVsJ5MTr/1.jpg" />
 <br />
 <br />
-Convert YAML Using kubectl-convert  <br/>
+Convert YAML using kubectl-convert to supported API versions <br/>
 <img src="https://i.postimg.cc/SKjd7sS5/2.jpg"/>
 <br />
 <br />
